@@ -119,7 +119,7 @@ If you don't use a configuration, LedisDB will use the default for you.
     → {"GET":"world"}
 
 
-## Package Example
+## Package Example (Embedding)
     
     import (
       lediscfg "github.com/siddontang/ledisdb/config"
